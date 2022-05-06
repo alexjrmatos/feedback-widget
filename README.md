@@ -9,4 +9,4 @@ The project still in development and the tasks are:
 - [x] Frontend
 - [x] Backend
 - [x] Tests
-- [ ] Integrate front and back
+- [x] Integrate front and back
